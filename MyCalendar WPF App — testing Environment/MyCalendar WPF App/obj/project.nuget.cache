@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "3tWn2bipwai7Cck4VbPBu0AYD5r9sd6t+K0sGpgTOfhlzRn67hKeKBLF+7WsXmYIgYJrwPT+ER5Cwk60ZMOxOw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Дима\\Desktop\\MyCalendar WPF App — testing Environment\\MyCalendar WPF App\\MyCalendar WPF App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дима\\.nuget\\packages\\materialdesigncolors\\1.2.2\\materialdesigncolors.1.2.2.nupkg.sha512",
+    "C:\\Users\\Дима\\.nuget\\packages\\materialdesignthemes\\3.0.1\\materialdesignthemes.3.0.1.nupkg.sha512",
+    "C:\\Users\\Дима\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Дима\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Дима\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Дима\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Не удалось найти проект \"C:\\Users\\Дима\\Desktop\\CustomCalendar\\CustomCalendar\\CustomCalendar.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
+      "libraryId": "C:\\Users\\Дима\\Desktop\\CustomCalendar\\CustomCalendar\\CustomCalendar.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
